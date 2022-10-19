@@ -42,8 +42,6 @@ Si querés saber mas de mí, ingresá a mi perfil de [Linkedin](https://www.link
 
 Para ver el [proyecto](https://github.com/HectorHDiaz/HectorHDiaz/edit/main/README.md)
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMP206euCY2k6kNlwrRT_P-Fol4rdOMljwQ&usqp=CAU)
-
 <picture>
   <img width="50% alt="mascots" src="https://s3.amazonaws.com/static.om.anigamy.net/static.selecciones.com.ar/App/Article/4370-560df2d4e6e55.jpg">
 </picture>
