@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <sub>Express</sub>
 >Need to learn more PHP
 
-`And need to learn more SQL`
+`And need to learn Wordpress`
 
 I need to do some
 ```
