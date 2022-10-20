@@ -45,6 +45,5 @@ For more professional information, here is my [Linkedin](https://www.linkedin.co
   <img src="https://img.shields.io/badge/Nintendo_Switch-E60012? style=for-the-badge&logo=nintendo-switch&logoColor=white">
   <img src="https://img.shields.io/badge/SAP-0FAAFF? style=for-the-badge&logo=sap&logoColor=white">
   </p>
-<hr>
 
 
