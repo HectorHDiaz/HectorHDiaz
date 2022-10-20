@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Development Skills
 
-Recently certified from **Coderhouse** as a *MERN Fullstack Developer*, and looking for my first professional experience in development.
+Recently certified from **Coderhouse** as a *MERN Fullstack Developer*, and looking for new professional experiences in development.
 
 <picture>
   <img src="https://i.imgur.com/zyjUctM.png">
