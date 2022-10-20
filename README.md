@@ -3,7 +3,7 @@ HectorHDiaz/HectorHDiaz is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hey, I'm Hector Diaz
+# 👋 Welcome, I'm Hector Diaz
 
 - 👀 I’m interested in using Web Development to enhance and make communities with projects helping them.
 - 🌱 I’m currently learning PHP and how to be a fully MERN Fullstack Developer. 
