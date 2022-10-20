@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in using Web Development to enhance and make communities with projects helping them.
 - 🌱 I’m currently learning PHP and how to be a fully MERN Fullstack Developer. 
 - 💞️ I’m looking to collaborate on social projects and going to start new ones.
-- 📫 How to reach me? By mail! atonomo.4s@gmail.com
+- 📫 How to reach me? By mail: atonomo.4s@gmail.com, and [Linkedin](https://www.linkedin.com/in/hd-arg/)!
 
 ## Development Skills
 
@@ -17,8 +17,6 @@ Recently certified from **Coderhouse** as a *MERN Fullstack Developer*, and look
 <picture>
   <img src="https://i.imgur.com/zyjUctM.png">
 </picture>
-
-For more professional information, here is my [Linkedin](https://www.linkedin.com/in/hd-arg/)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white">
