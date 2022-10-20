@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning PHP and how to be a fully MERN Fullstack Developer. 
 - 💞️ I’m looking to collaborate on social projects and going to start new ones.
 - 📫 How to reach me? By mail! atonomo.4s@gmail.com
-<hr>
 
 ## Development Skills
 
