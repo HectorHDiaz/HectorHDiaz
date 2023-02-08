@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Welcome, I'm Hector Diaz
 
 - 👀 I’m interested in using Web Development to enhance and make communities with projects helping them.
-- 🌱 I’m currently learning PHP and how to be a fully MERN Fullstack Developer. 
+- 🌱 I’m currently learning JAVA for Backend and how to be a fully MERN Fullstack Developer. 
 - 💞️ I’m looking to collaborate on social projects and going to start new ones.
 - 📫 How to reach me? By mail: atonomo.4s@gmail.com, and [Linkedin](https://www.linkedin.com/in/hd-arg/)!
 
